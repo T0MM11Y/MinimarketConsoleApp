@@ -3,6 +3,8 @@
 // Deskripsi Kelas //
 
 --- Kelas Barang ---
+
+
 Kelas Barang digunakan untuk merepresentasikan barang yang dijual di minimarket. Kelas ini
 memiliki dua atribut utama:
  nama: Variabel untuk menyimpan nama barang.
@@ -13,6 +15,8 @@ Kelas ini juga memiliki beberapa method penting:
  toString(): Method yang mengganti representasi String dari objek Barang.
 
   --- Kelas Login ---
+
+  
 Kelas Login bertanggung jawab untuk mengelola login, registrasi, dan logout pelanggan. Kelas ini
 memiliki beberapa atribut utama:
  databasePelanggan: Database untuk menyimpan informasi pelanggan.
@@ -26,6 +30,8 @@ username dan password baru.
  getPelangganAktif(): Metode untuk mendapatkan pelanggan yang sedang aktif (login).
 
 --- Kelas Minimarket---
+
+
 Kelas Minimarket digunakan untuk mengelola daftar barang yang tersedia di minimarket dan
 keranjang belanja pelanggan. Kelas ini memiliki dua atribut utama:
  daftarBarang: Daftar barang yang tersedia di minimarket.
@@ -40,6 +46,8 @@ pelanggan untuk membeli barang.
 pelanggan.
 
 --- Kelas Pelanggan ---
+
+
 Kelas Pelanggan digunakan untuk merepresentasikan pelanggan yang melakukan login ke sistem.
 Kelas ini memiliki tiga atribut utama:
  username: Nama pengguna pelanggan.
