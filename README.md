@@ -82,9 +82,9 @@ Menampilkan Keranjang Belanja
 Logout
 1. Pengguna dapat melakukan logout kapan saja.
 
- /////////////////////////////////  
-/////////// Kesimpulan ///////////
-/////////////////////////////////
+ ////////////////////////
+////// Kesimpulan //////
+////////////////////////
 
 Program minimarket ini telah dirancang dengan baik untuk mengelola transaksi jual beli barang di
 minimarket virtual. Dengan menggunakan sejumlah kelas yang terstruktur, program ini
