@@ -1,8 +1,6 @@
 # MinimarketConsoleAppWithJava
 
-////////////////////////
-// Deskripsi Kelas /////
-////////////////////////
+// Deskripsi Kelas //
 
 --- Kelas Barang ---
 Kelas Barang digunakan untuk merepresentasikan barang yang dijual di minimarket. Kelas ini
@@ -54,10 +52,7 @@ dengan kata sandi pelanggan.
  getSaldo(): Mengembalikan saldo pelanggan.
  setSaldo(double saldo): Mengatur saldo pelanggan.
 
-///////////////////////////////////////////////
-/////////////// Alur Penggunaan Program /////////
-//////////////////////////////////////////////
-
+/// Alur Penggunaan Program ///
 
 --- Login dan Registrasi ---
 
@@ -82,9 +77,7 @@ Menampilkan Keranjang Belanja
 Logout
 1. Pengguna dapat melakukan logout kapan saja.
 
- ////////////////////////
-////// Kesimpulan //////
-////////////////////////
+/// Kesimpulan ///
 
 Program minimarket ini telah dirancang dengan baik untuk mengelola transaksi jual beli barang di
 minimarket virtual. Dengan menggunakan sejumlah kelas yang terstruktur, program ini
